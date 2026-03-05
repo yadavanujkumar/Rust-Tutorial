@@ -1,0 +1,5 @@
+[package]
+name = "enums_and_pattern_matching"
+version = "0.1.0"
+edition = "2021"
+description = "Tutorial 07: Enums, Option, match and pattern matching"
