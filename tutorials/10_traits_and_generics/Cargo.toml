@@ -1,0 +1,5 @@
+[package]
+name = "traits_and_generics"
+version = "0.1.0"
+edition = "2021"
+description = "Tutorial 10: Traits, trait bounds and generic types"

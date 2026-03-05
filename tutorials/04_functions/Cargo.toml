@@ -1,0 +1,5 @@
+[package]
+name = "functions"
+version = "0.1.0"
+edition = "2021"
+description = "Tutorial 04: Functions, parameters and return values"

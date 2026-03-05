@@ -1,0 +1,15 @@
+[workspace]
+members = [
+    "tutorials/01_hello_world",
+    "tutorials/02_variables_and_types",
+    "tutorials/03_control_flow",
+    "tutorials/04_functions",
+    "tutorials/05_ownership",
+    "tutorials/06_structs",
+    "tutorials/07_enums_and_pattern_matching",
+    "tutorials/08_collections",
+    "tutorials/09_error_handling",
+    "tutorials/10_traits_and_generics",
+    "tutorials/11_iterators_and_closures",
+]
+resolver = "2"

@@ -1,0 +1,5 @@
+[package]
+name = "variables_and_types"
+version = "0.1.0"
+edition = "2021"
+description = "Tutorial 02: Variables, mutability and data types in Rust"

@@ -1,0 +1,5 @@
+[package]
+name = "iterators_and_closures"
+version = "0.1.0"
+edition = "2021"
+description = "Tutorial 11: Iterators, closures and functional programming patterns"
